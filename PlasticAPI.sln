@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlasticAPI.Library", "plasticAPI.Library\PlasticAPI.Library.csproj", "{028F71E6-9845-4860-B697-1E3C983E3352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlasticAPI.Tests", "plasticAPI.Tests\PlasticAPI.Tests.csproj", "{C55D30C7-DD40-45D5-8717-68B5893E6F69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028F71E6-9845-4860-B697-1E3C983E3352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028F71E6-9845-4860-B697-1E3C983E3352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028F71E6-9845-4860-B697-1E3C983E3352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028F71E6-9845-4860-B697-1E3C983E3352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55D30C7-DD40-45D5-8717-68B5893E6F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55D30C7-DD40-45D5-8717-68B5893E6F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55D30C7-DD40-45D5-8717-68B5893E6F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55D30C7-DD40-45D5-8717-68B5893E6F69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
